@@ -25,7 +25,7 @@
         "isPrivate": false
       },
       {
-        "name": "trackit.szilagyi.hu",
+        "name": "Trackit promo page",
         "description": "Promotional website",
         "technology": "HTML",
         "githubUrl": "https://github.com/apptrackit/trackit.szilagyi.hu",
@@ -57,6 +57,13 @@
         "technology": "JavaScript",
         "githubUrl": "https://github.com/apptrackit/chat-server",
         "isPrivate": false
+      },
+      {
+        "name": "Inviso promo page",
+        "description": "Promotional website",
+        "technology": "HTML",
+        "githubUrl": "https://github.com/apptrackit/inviso.szilagyi.hu",
+        "isPrivate": false
       }
     ]
   },
@@ -69,32 +76,6 @@
         "description": "Finance tracking web application",
         "technology": "TypeScript",
         "githubUrl": "https://github.com/apptrackit/finance",
-        "isPrivate": false
-      }
-    ]
-  },
-  {
-    "name": "Inviso",
-    "description": "Inviso promotional services and website",
-    "repos": [
-      {
-        "name": "inviso.szilagyi.hu",
-        "description": "Promotional website",
-        "technology": "HTML",
-        "githubUrl": "https://github.com/apptrackit/inviso.szilagyi.hu",
-        "isPrivate": false
-      }
-    ]
-  },
-  {
-    "name": "Portfolio",
-    "description": "Personal portfolio and project showcase",
-    "repos": [
-      {
-        "name": "trackit.com",
-        "description": "Main portfolio and project showcase website",
-        "technology": "HTML/CSS/JS",
-        "githubUrl": "https://github.com/apptrackit/trackit.com",
         "isPrivate": false
       }
     ]

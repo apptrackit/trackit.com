@@ -1,0 +1,112 @@
+[
+  {
+    "name": "trackit.com",
+    "description": "Main TrackIt portfolio and project showcase website",
+    "category": "Web",
+    "technology": "HTML/CSS/JS",
+    "priority": 1,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/trackit.com",
+    "isPrivate": false,
+    "lastUpdated": "2026-01-11"
+  },
+  {
+    "name": "Finance",
+    "description": "Personal finance tracking and budgeting application",
+    "category": "Web",
+    "technology": "TypeScript",
+    "priority": 2,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/finance",
+    "isPrivate": false,
+    "lastUpdated": "2026-01-11"
+  },
+  {
+    "name": "Chat-iOS",
+    "description": "P2P E2EE Chat application for iOS devices",
+    "category": "Mobile",
+    "technology": "Swift",
+    "priority": 3,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/chat-ios",
+    "isPrivate": false,
+    "lastUpdated": "2025-12-11"
+  },
+  {
+    "name": "Chat-Android",
+    "description": "P2P E2EE Chat application for Android devices",
+    "category": "Mobile",
+    "technology": "Kotlin",
+    "priority": 4,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/chat-android",
+    "isPrivate": true,
+    "lastUpdated": "2025-11-18"
+  },
+  {
+    "name": "Chat-Server",
+    "description": "Backend server infrastructure for P2P chat applications",
+    "category": "Backend",
+    "technology": "JavaScript",
+    "priority": 5,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/chat-server",
+    "isPrivate": false,
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "name": "TrackIt-Android",
+    "description": "Android app for tracking and monitoring activities",
+    "category": "Mobile",
+    "technology": "Kotlin",
+    "priority": 6,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/trackit-android",
+    "isPrivate": false,
+    "lastUpdated": "2025-10-11"
+  },
+  {
+    "name": "TrackIt-iOS",
+    "description": "iOS app for tracking and monitoring activities",
+    "category": "Mobile",
+    "technology": "Swift",
+    "priority": 7,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/trackit-ios",
+    "isPrivate": false,
+    "lastUpdated": "2025-10-07"
+  },
+  {
+    "name": "TrackIt Backend",
+    "description": "Backend API and server infrastructure for TrackIt apps",
+    "category": "Backend",
+    "technology": "JavaScript",
+    "priority": 8,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/trackit-backend",
+    "isPrivate": false,
+    "lastUpdated": "2025-09-08"
+  },
+  {
+    "name": "TrackIt Promo",
+    "description": "Promotional website for TrackIt application",
+    "category": "Web",
+    "technology": "HTML",
+    "priority": 9,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/trackit.szilagyi.hu",
+    "isPrivate": false,
+    "lastUpdated": "2025-09-25"
+  },
+  {
+    "name": "Inviso Promo",
+    "description": "Promotional website for Inviso services",
+    "category": "Web",
+    "technology": "HTML",
+    "priority": 10,
+    "status": "Active",
+    "githubUrl": "https://github.com/apptrackit/inviso.szilagyi.hu",
+    "isPrivate": false,
+    "lastUpdated": "2025-01-08"
+  }
+]

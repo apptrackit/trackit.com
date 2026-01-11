@@ -55,7 +55,7 @@ function createRepoItem(repo) {
     const item = document.createElement('div');
     item.className = 'repo-item';
     
-    const techClass = `tech-${repo.technology.toLowerCase().replace(/\//g, '\\/').replace(/\s/g, '')}`;
+    const techClass = `tech-${repo.technology.toLowerCase().replace(/\//g, '').replace(/\s/g, '')}`;
     const privacyBadge = repo.isPrivate 
         ? '<span class="privacy-badge badge-private">Private</span>'
         : '<span class="privacy-badge badge-public">Public</span>';

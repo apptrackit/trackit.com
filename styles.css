@@ -254,6 +254,8 @@ body {
     margin-top: 4rem;
     padding: 2rem;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .footer-content {
@@ -265,6 +267,7 @@ body {
     gap: 0.75rem;
     font-size: 0.875rem;
     color: var(--text-dim);
+    text-align: center;
 }
 
 .footer-text {
@@ -278,13 +281,25 @@ body {
 }
 
 .footer-link {
-    color: var(--text-dim);
+    color: var(--text-dim) !important;
     text-decoration: underline;
     transition: color 0.2s;
+    -webkit-text-fill-color: var(--text-dim);
 }
 
 .footer-link:hover {
-    color: var(--accent);
+    color: var(--accent) !important;
+    -webkit-text-fill-color: var(--accent);
+}
+
+.footer-link:visited {
+    color: var(--text-dim) !important;
+    -webkit-text-fill-color: var(--text-dim);
+}
+
+.footer-link:link {
+    color: var(--text-dim) !important;
+    -webkit-text-fill-color: var(--text-dim);
 }
 
 .footer-separator {

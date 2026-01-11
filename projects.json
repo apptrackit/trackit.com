@@ -1,4 +1,16 @@
-[
+[{
+    "name": "Finance",
+    "description": "Personal finance tracking and budgeting application",
+    "repos": [
+      {
+        "name": "finance",
+        "description": "Finance tracking web application",
+        "technology": "TypeScript",
+        "githubUrl": "https://github.com/apptrackit/finance",
+        "isPrivate": false
+      }
+    ]
+  },
   {
     "name": "TrackIt",
     "description": "Activity tracking and monitoring platform across iOS, Android, and web",
@@ -63,19 +75,6 @@
         "description": "Promotional website",
         "technology": "HTML",
         "githubUrl": "https://github.com/apptrackit/inviso.szilagyi.hu",
-        "isPrivate": false
-      }
-    ]
-  },
-  {
-    "name": "Finance",
-    "description": "Personal finance tracking and budgeting application",
-    "repos": [
-      {
-        "name": "finance",
-        "description": "Finance tracking web application",
-        "technology": "TypeScript",
-        "githubUrl": "https://github.com/apptrackit/finance",
         "isPrivate": false
       }
     ]
